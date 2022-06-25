@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Informasi Kampus</string>
+    <string name="learn_android_studio_3">Politeknik Negeri Bengkalis</string>
+    <string name="learn_android_studio_3_with_kotlin">Sekolah Tinggi Ilmu Ekonomi Bengkalis</string>
+    <string name="minimum_android_programming">Sekolah Tinggi Agama Islam Bengkalis</string>
+    <string name="kampus">Akademi Komputer Riau</string>
+</resources>
